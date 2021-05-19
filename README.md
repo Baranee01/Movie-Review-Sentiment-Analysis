@@ -21,11 +21,11 @@ If you do not have Python installed yet, it is highly recommended that you insta
 In a terminal or command window, navigate to the top-level project directory `Movie-Review-Sentiment-Analysis/` (that contains this README) and run one of the following commands:
 
 ```bash
-jupyter notebook MOVIES.ipynb
+jupyter notebook REVIEWS.ipynb
 ```
 or
 ```bash
-ipython notebook MOVIES.ipynb
+ipython notebook REVIEWS.ipynb
 ```
 
 This will open the Jupyter Notebook software and project file in your web browser. You can also use [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) for easy access as it already has all the packages installed.
